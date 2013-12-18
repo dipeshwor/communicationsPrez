@@ -21,7 +21,9 @@ html * {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: url('../../images/background1.jpg') no-repeat; 
+  background: url('../../images/wood4.jpg') no-repeat center center;
+	
+	
 }
 
 .reveal {
@@ -29,7 +31,7 @@ body {
   font-size: 36px;
   font-weight: 200;
   letter-spacing: -0.02em;
-  color: #93a1a1; }
+  color: black; }
 
 ::selection {
   color: white;
@@ -57,16 +59,16 @@ body {
   text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2); }
 
 .reveal td{
-	padding:10px 30px 10px 30px;
+	padding:10px 25px 10px 25px;
 	vertical-align:middle;
 }
 .reveal th{
 	vertical-align:middle;
-	padding:10px 30px 10px 30px;
+	padding:10px 25px 10px 25px;
 }
 
 .reveal tr{
-	padding:10px 30px 10px 30px;
+	padding:10px 25px 10px 25px;
 }
 
 .reveal table {
