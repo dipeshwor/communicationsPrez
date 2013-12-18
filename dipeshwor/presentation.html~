@@ -114,7 +114,7 @@
 				</tr>
 				<tr class="fragment fade">
 					<td><img src="images/target.png" /></td>
-					<td>Targer market</td>
+					<td>Target market</td>
 				</tr>		
 				<tr class="fragment fade">
 					<td><img src="images/relation.png" /></td>
@@ -298,15 +298,8 @@
 				Products
 			</h2>			
 			<p class="fragment fade">
-				<ol class="fragment fade">
-					<img src="images/man.png" />
-					<li>Curriculum</li>
-					<li>Tools/Kits</li>
-					<li>Teachers' training </li>
-					<li>Summer/Winter Camps</li>
-					<li>Android apps</li>
-					<li>Online courses</li>
-				<ol>
+				<img src="images/curriculum.png" />
+			
 			</p>
 		</section>
 <!-- end of slide 13-->
@@ -345,7 +338,7 @@
 			
 			<table>
 				<tr class="fragment fade">
-					<td><img src="images/graduate.png" /></td>
+					<td><img src="images/school.png" /></td>
 					<td>Regional institutions</td>
 					<td></td>
 				</tr>
